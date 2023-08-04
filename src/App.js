@@ -10,13 +10,13 @@ function App() {
   return (
     <div className='App'>
 
-      <h7>C07MatrizOperaciones</h7>
+      <h1>C07MatrizOperaciones</h1>
       <C07MatrizOperaciones></C07MatrizOperaciones>
 
-      <h5>Componente 5</h5>
+      <h1>Componente 5</h1>
       <C05operadorternario></C05operadorternario>
 
-      <h3>Componente 3</h3>
+      <h1>Componente 3</h1>
       <C03contador></C03contador>
 
       <h1>Componente 1</h1>
